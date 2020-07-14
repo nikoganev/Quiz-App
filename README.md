@@ -3,4 +3,5 @@ There are a few static questions written as objects in JSON that have a few answ
 
 ## Installation
 npm install
+
 npm start
