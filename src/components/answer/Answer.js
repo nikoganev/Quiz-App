@@ -20,7 +20,7 @@ const Answer = (props) => {
     {
       props.correctAnswer ?
       'Correct Answer!' :
-      props.clickedAnswer ? 'Incorrect Answer!' : ''
+      props.clickedAnswer ? 'Incorrect Answer!' + ' ' + 'Correct answer was:' + '' : ''
     }
 
 

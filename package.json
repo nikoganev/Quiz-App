@@ -1,6 +1,7 @@
 {
   "name": "quiz-react",
   "version": "0.1.0",
+  "description": "questionnaire application build by Niko",
  "private": true,
  "dependencies": {
    "@testing-library/jest-dom": "^4.2.4",
